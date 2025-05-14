@@ -1,6 +1,8 @@
 # Malaria Detection using CNN
 
 This project uses a Convolutional Neural Network (CNN) to classify malaria-infected and uninfected red blood cells from microscopic images.
+## 👥 Team Photo
+![Our Team](team_photo.jpg)
 
 ## Dataset
 -Malaria Dataset (ZIP) from the following link:
