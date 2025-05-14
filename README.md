@@ -3,7 +3,8 @@
 This project uses a Convolutional Neural Network (CNN) to classify malaria-infected and uninfected red blood cells from microscopic images.
 
 ## Dataset
-- NIH Malaria Dataset: [Link](https://ceb.nlm.nih.gov/repositories/malaria-datasets/)
+-Malaria Dataset (ZIP) from the following link:
+👉 [Download cell_images.zip from Google Drive][Link](https://drive.google.com/file/d/1BDIzaTiWww2DtjyEn9uxsql_INZBqpeB/view?usp=sharing)
 - 27,558 images in two categories: `Parasitized` and `Uninfected`
 
 ## Technologies Used
